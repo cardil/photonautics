@@ -123,10 +123,10 @@ This is equivalent to being **~540 AU from a supernova** - about 18× Pluto's or
 Even at 540 AU, a supernova would sterilize any planet. The sail experiences this intensity **continuously for years**, not just during a brief supernova peak.
 
 **Fast Radio Bursts:**
-- FRB power: ~10³² W emitted, lasting milliseconds
+- FRB power: ~10³⁸-10⁴⁴ W emitted, lasting milliseconds
 - At Earth (billions of light-years away): ~10⁻²⁰ W/m²
-- Equivalent distance for sail intensity: **~1.7 AU from an FRB source**
-- Being 1.7 AU from an FRB would vaporize anything instantly
+- Equivalent distance for sail intensity (using 10⁴⁰ W): **~160 light-years from an FRB source**
+- Being this close to an FRB would vaporize anything instantly
 
 **Quasar jets:**
 - Quasar luminosity: ~10⁴⁰ W (10,000 galaxies worth)
@@ -171,14 +171,16 @@ Lasers don't stay focused forever. Even with perfect optics:
 For a 1 μm wavelength laser with 10 km diameter aperture:
 - Divergence angle: ~10⁻¹⁰ radians
 - Beam diameter at 1 AU (150M km): ~15 km
-- Beam diameter at 1 light-year: **~950,000 km**
+- Beam diameter at 1 light-year: **~1,900 km**
 
 **Power loss with distance:**
-- At 0.1 light-years: beam spreads to ~95,000 km diameter
-- For 1 km² sail: captures only **0.00001%** of beam power
-- To deliver 120 TW at this distance: need to emit **1.2 exawatts** (1.2×10¹⁸ W)
+- At 0.1 light-years: beam spreads to ~190 km diameter
+- For 1 km² sail: captures only **~0.003%** of beam power
+- To deliver 120 TW at this distance: need to emit **~4 petawatts** (4×10¹⁵ W)
 
-This is **~600,000× humanity's power production**.
+This is **~200× humanity's power production** (~20 TW).
+
+**Note:** For larger distances or smaller apertures, divergence becomes catastrophic. A more realistic 100m aperture would spread to 190,000 km at 1 ly, making power delivery completely impractical.
 
 ### The Array Size
 

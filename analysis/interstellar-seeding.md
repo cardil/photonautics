@@ -399,25 +399,31 @@ The good news: this doesn't require post-scarcity, world government, or techno-r
 
 ### Current Baseline
 
-- NASA budget: ~$25B/year (~0.04% of US GDP)
-- Global space spending: ~0.1-0.2% of global GDP
+- NASA budget: ~$25B/year (~0.1% of US federal budget, ~0.04% of US GDP)
+- Global space spending: ~$100B/year (~0.1% of global GDP)
 
 ### Required Investment
 
-| Phase | Timeframe | Annual Cost (2025 USD) | % of Global GDP |
-|-------|-----------|------------------------|-----------------|
-| R&D and enabling tech | 2025-2100 | $50-200B | ~0.05-0.1% |
-| Solar system industrial base | 2100-2300 | $300-1000B | ~0.2-0.5% |
-| Persistent interstellar seeding | 2300+ | $500B-$5T | ~0.1-0.5% |
+*All figures in constant 2025 dollars (inflation-adjusted). Real GDP growth of ~2%/year assumed.*
+
+With ~2% **real** (inflation-adjusted) annual GDP growth, starting from ~$100T:
+- 2100 (75 years): Global GDP ~$440T (4.4× today)
+- 2200 (175 years): Global GDP ~$3,200T (32× today)
+- 2300 (275 years): Global GDP ~$23,000T (230× today)
+
+| Phase | Timeframe | Annual Cost (2025$) | % of GDP at Start | % of GDP at End |
+|-------|-----------|---------------------|-------------------|-----------------|
+| R&D and enabling tech | 2025-2100 | $50-200B | ~0.05-0.2% | ~0.01-0.05% |
+| Solar system industrial base | 2100-2300 | $300B-1T | ~0.07-0.23% | ~0.01-0.03% |
+| Persistent interstellar seeding | 2300+ | $1-5T | ~0.004-0.02% | Even smaller |
 
 ### Why This Is Affordable
 
-With ~2% annual GDP growth:
-- 2100: Global GDP ~$163T (1.6× today)
-- 2200: Global GDP ~$444T (4.4× today)
-- 3000: Global GDP ~$8,000T (80× today)
+**Key insight:** Costs grow, but real GDP grows faster. Each phase becomes *more* affordable as it progresses.
 
-**At these scales, $1T/year is ~0.1% of GDP** - less than current defense spending in many countries.
+By 2300, even $5T/year (2025 dollars) represents only ~0.02% of projected real GDP - comparable to current global space spending as a fraction of today's economy, and far less than typical defense budgets (1-5% of GDP).
+
+*Note: Historical real GDP growth has averaged ~2-3% globally over the past century. Even at a more conservative 1.5%/year, the conclusions hold.*
 
 ### What's Required
 

@@ -43,7 +43,7 @@ Assuming acceleration for first half of journey (20 years), deceleration for sec
 - **Time**: 20 years = 6.3 × 10⁸ seconds
 - **Power output**: ~1.2 × 10¹⁴ watts = **120 terawatts**
 
-This is approximately **60 times** humanity's total current power generation capacity.
+This is approximately **6-7 times** humanity's total current power generation capacity (~18-20 TW).
 
 ---
 
@@ -76,9 +76,9 @@ Ship outputs **1.2 × 10¹⁴ watts** continuously.
 
 ### Radiative Cooling Limitations
 
-Even at 2,000°C, a radiator can only dissipate ~10 MW/m².
+Even at 2,000°C (2273 K), a radiator can only dissipate ~1.5 MW/m² (Stefan-Boltzmann law: σT⁴).
 
-To radiate away 6 terawatts: **600,000 m²** of radiator surface at 2,000°C required - more massive than the ship itself.
+To radiate away 6 terawatts: **4,000,000 m²** of radiator surface at 2,000°C required - vastly more massive than the ship itself. Even at extreme temperatures of 3,400°C (~10 MW/m²), you'd still need 600,000 m² of radiator.
 
 ---
 

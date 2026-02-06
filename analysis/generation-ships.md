@@ -83,10 +83,10 @@ Assuming 25-year generations:
 | 2,000 years | 80 generations | 79th descendants |
 
 **For perspective:**
-- 40 generations ago (~1000 CE): Viking Age, Mayan collapse, Song Dynasty China
-- 80 generations ago (~1000 BCE): Bronze Age, before Classical Greece
+- 40 generations ago (~1000 years): Viking Age, Mayan collapse, Song Dynasty China
+- 80 generations ago (~2000 years): Roman Empire, early Christianity
 
-The people who arrive would be as different from the founders as we are from Bronze Age humans.
+The people who arrive would be as different from the founders as we are from ancient Romans.
 
 ---
 
