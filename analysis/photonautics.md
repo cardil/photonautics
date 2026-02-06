@@ -43,7 +43,7 @@ Once reliable industry exists:
 
 **100 kg probe to 0.1c:**
 - Kinetic energy: ½ × 100 × (3×10⁷)² ≈ 4.5×10¹⁶ J
-- Equivalent to ~200 Tsar Bombas (vs. 714,000 for a ship)
+- Equivalent to ~0.2 Tsar Bombas (vs. 714,000 for a ship - a 3.5-million-fold reduction)
 - Over 50 years of acceleration: **~30 megawatts average power**
 - A small probe can radiate this heat
 

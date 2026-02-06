@@ -27,9 +27,9 @@ For acceleration + deceleration: **~1.5 × 10²³ joules total**
 
 ### Real-World Context
 
-- **14 times** the world's annual energy consumption
+- **~250 times** the world's annual energy consumption (~6×10²⁰ J/year)
 - Sun's energy hitting Earth for ~5 hours
-- Could power all human civilization for over a decade
+- Could power all human civilization for over two centuries
 
 **Note**: This assumes 100% efficiency. Real rockets are ~50% efficient at best.
 

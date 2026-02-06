@@ -126,7 +126,7 @@ Realistic antimatter density in confinement: ~10⁻¹⁰ kg/m³ (extremely diffu
 
 Volume needed:
 - 8.5×10⁶ kg ÷ 10⁻¹⁰ kg/m³ = **8.5×10¹⁶ m³**
-- A cube **~44,000 km on each side** - larger than Earth!
+- A cube **~440 km on each side** - about the size of Arizona
 
 Even with optimistic future density of 1 kg/m³:
 - Volume: 8.5 million m³

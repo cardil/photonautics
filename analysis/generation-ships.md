@@ -52,11 +52,11 @@ To stay within thermal limits, we need very low average acceleration.
 
 | Scenario | Avg Accel | Max Velocity | Journey Time | Peak Power (Avatar) | Peak Power (O'Neill) |
 |----------|-----------|--------------|--------------|---------------------|----------------------|
-| Ultra-conservative | 0.00001g | 0.007c | ~1,300 years | ~10 GW | ~700 GW |
+| Ultra-conservative | 0.00001g | 0.007c | ~1,300 years | ~30 GW | ~2 TW |
 | Moderate | 0.0001g | 0.02c | ~400 years | ~100 GW | ~7 TW |
 | Aggressive | 0.001g | 0.07c | ~130 years | ~1 TW | ~70 TW |
 
-**The "aggressive" scenario already has thermal problems.** The 130-year journey requires 1 TW peak power for Avatar-class, approaching the thermal destruction zone.
+**The "ultra-conservative" scenario already has thermal problems for O'Neill-class.** Even at 0.00001g, a 10-million-ton habitat at 0.007c outputs ~2 TW - already in the danger zone.
 
 For O'Neill-class (67× heavier), even the moderate scenario needs 7 TW - **definitely in thermal danger zone**.
 
