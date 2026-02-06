@@ -96,8 +96,8 @@ Current state:
 - Required: 8,500 tons of antimatter (half of 17,000 tons fuel)
 
 Time to produce:
-- 8.5×10¹² grams ÷ 10⁻⁸ grams/year = **8.5×10²⁰ years**
-- That's **60 billion times the age of the universe**
+- 8.5×10⁹ grams ÷ 10⁻⁸ grams/year = **8.5×10¹⁷ years**
+- That's **60 million times the age of the universe**
 
 Even with 1 trillion-fold improvement: **850,000 years** to fuel one ship.
 
